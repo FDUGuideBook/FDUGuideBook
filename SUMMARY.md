@@ -2,9 +2,14 @@
 
 * [FDUGuideBook](README.md)
 * [sections](sections/README.md)
-  * [我们是谁？](sections/guan-yu-wo-men/README.md)
-    * [Table of contents](sections/guan-yu-wo-men/SUMMARY.md)
-    * [为冒险指南做出贡献！](sections/guan-yu-wo-men/wei-mao-xian-zhi-nan-zuo-chu-gong-xian.md)
+  * [我们是谁？](README.md)
+    * [食用方法](shi-yong-fang-fa.md)
+    * [文档结构](wen-dang-jie-gou.md)
+    * [为冒险指南做出贡献！](wei-mao-xian-zhi-nan-zuo-chu-gong-xian/README.md)
+      * [教程 | 冒险指南PullRequest](wei-mao-xian-zhi-nan-zuo-chu-gong-xian/jiao-cheng-mao-xian-zhi-nan-pullrequest.md)
+      * [教程 | GitBook编辑器](wei-mao-xian-zhi-nan-zuo-chu-gong-xian/jiao-cheng-gitbook-bian-ji-qi.md)
+    ## 留言板
+    * [Page 1](liu-yan-ban/page-1.md)
   * [Test Page](sections/ru-xue-zhi-nan/README.md)
     * [Table of contents](sections/ru-xue-zhi-nan/SUMMARY.md)
     * [附件测试](sections/ru-xue-zhi-nan/fu-jian-ce-shi.md)
