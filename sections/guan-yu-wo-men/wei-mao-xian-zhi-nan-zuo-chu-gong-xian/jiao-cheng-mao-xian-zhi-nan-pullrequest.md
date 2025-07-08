@@ -12,17 +12,17 @@ YOUNEED 前置知识：
 
 {% stepper %}
 {% step %}
-### 科学上网
+#### 科学上网
 
 GitBook和GitHub由于网络问题有时无法进入，建议使用加速器或者科学上网。
 {% endstep %}
 
 {% step %}
-### 登录/注册[Github](https://github.com/)账号
+#### 登录/注册[Github](https://github.com/)账号
 {% endstep %}
 
 {% step %}
-### 登录[GitBook](https://www.gitbook.com/)账号
+#### 登录[GitBook](https://www.gitbook.com/)账号
 
 选择`Continue with GitHub`。
 
@@ -36,7 +36,7 @@ GitBook和GitHub由于网络问题有时无法进入，建议使用加速器或�
 {% endstep %}
 
 {% step %}
-### 配置GitHub同步并初次导入内容
+#### 配置GitHub同步并初次导入内容
 
 进入[FDUGuideBook](https://github.com/alumls/FDUGuideBook)仓库页面，将内容Fork到自己的仓库。
 
@@ -78,7 +78,7 @@ GitBook和GitHub由于网络问题有时无法进入，建议使用加速器或�
 
 <figure><img src="../.gitbook/assets/方法3-4.8.png" alt=""><figcaption></figcaption></figure>
 
-接下来需要配置同步。&#x20;
+接下来需要配置同步。
 
 推荐配置
 
@@ -86,7 +86,7 @@ GitBook和GitHub由于网络问题有时无法进入，建议使用加速器或�
 * Project directory：选择同步的仓库目录，这里默认`./`
 * Use a custom template：commit message（每次提交合并请求时的说明文字）使用特定格式，可选可不选。这里我们不选。
 * Pull request preview：在 GitHub 上提交拉取请求时是否可以预览内容，这里我们选择开启。
-* Initial Sync：首次同步方向，这里选择`GitHub to GitBook`。&#x20;
+* Initial Sync：首次同步方向，这里选择`GitHub to GitBook`。
 
 最后点击→`Sync`。
 
@@ -96,7 +96,7 @@ GitBook和GitHub由于网络问题有时无法进入，建议使用加速器或�
 {% endstep %}
 
 {% step %}
-### 编辑冒险指南
+#### 编辑冒险指南
 
 每次编辑开始前，请前往自己的GitHub仓库界面`Sync fork`，将自己仓库的版本同步到主仓库版本。
 
@@ -148,7 +148,7 @@ GitBook和GitHub由于网络问题有时无法进入，建议使用加速器或�
 {% endstep %}
 
 {% step %}
-### Pull Request！
+#### Pull Request！
 
 此时GitBook-GitHub之间已经自动完成同步，你的仓库中已经存在你最新编辑的内容。
 
