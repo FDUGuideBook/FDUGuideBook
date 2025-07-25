@@ -4,6 +4,7 @@
   * [编程技能](readme/bian-cheng-ji-neng/README.md)
     * [C语言编程](readme/bian-cheng-ji-neng/c-yu-yan-bian-cheng.md)
     * [Python编程](readme/bian-cheng-ji-neng/python-bian-cheng.md)
+    * [Java编程](readme/bian-cheng-ji-neng/java-bian-cheng.md)
   * [硬件理论](readme/ying-jian-li-lun/README.md)
     * [电路分析基础](readme/ying-jian-li-lun/dian-lu-fen-xi-ji-chu.md)
     * [数字电路基础](readme/ying-jian-li-lun/shu-zi-dian-lu-ji-chu.md)
