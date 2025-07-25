@@ -1,4 +1,14 @@
 # Table of contents
 
 * [知识库简介](README.md)
-* [测试页2](ce-shi-ye-2.md)
+  * [编程技能](readme/bian-cheng-ji-neng/README.md)
+    * [C语言编程](readme/bian-cheng-ji-neng/c-yu-yan-bian-cheng.md)
+    * [Python编程](readme/bian-cheng-ji-neng/python-bian-cheng.md)
+  * [硬件理论](readme/ying-jian-li-lun/README.md)
+    * [电路分析基础](readme/ying-jian-li-lun/dian-lu-fen-xi-ji-chu.md)
+    * [数字电路基础](readme/ying-jian-li-lun/shu-zi-dian-lu-ji-chu.md)
+    * [模拟电路基础](readme/ying-jian-li-lun/mo-ni-dian-lu-ji-chu.md)
+    * [嵌入式相关知识](readme/ying-jian-li-lun/qian-ru-shi-xiang-guan-zhi-shi.md)
+  * [其他知识](readme/qi-ta-zhi-shi/README.md)
+    * [SolidWorks建模](readme/qi-ta-zhi-shi/solidworks-jian-mo.md)
+    * [AI大模型应用开发](readme/qi-ta-zhi-shi/ai-da-mo-xing-ying-yong-kai-fa.md)
