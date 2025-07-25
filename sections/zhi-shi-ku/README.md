@@ -19,7 +19,7 @@ icon: monero
   2. ‘_<mark style="color:orange;">**优质资源的筛选**</mark>_’，而非良莠不齐
   3. ’_<mark style="color:orange;">**案例实操的演示**</mark>_‘，而非学会用废
 * 我们搭建知识库，That’s because：
-  * 信息熵太大了，我们想做点事情，把知识压缩成可解码格式。
+  * 我们想让电子信息专业的同学们不再在信息流的冲击下头昏脑胀，而是思路清晰、目标明确，无痛由小白变成大佬！
 {% endhint %}
 
 {% hint style="info" %}
