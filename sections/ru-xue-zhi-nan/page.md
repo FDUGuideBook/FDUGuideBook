@@ -2,10 +2,6 @@
 
 this is a page
 
-{% content-ref url="../guan-yu-wo-men/" %}
-[guan-yu-wo-men](../guan-yu-wo-men/)
-{% endcontent-ref %}
-
 {% content-ref url="yin-cang-ye-mian-ce-shi.md" %}
 [yin-cang-ye-mian-ce-shi.md](yin-cang-ye-mian-ce-shi.md)
 {% endcontent-ref %}
