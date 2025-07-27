@@ -13,3 +13,5 @@
     * [附件测试](sections/ru-xue-zhi-nan/fu-jian-ce-shi.md)
     * [同步测试](sections/ru-xue-zhi-nan/tong-bu-ce-shi.md)
     * [Page](sections/ru-xue-zhi-nan/page.md)
+    * [隐藏页面测试](sections/ru-xue-zhi-nan/yin-cang-ye-mian-ce-shi.md)
+* [隐藏页面测试2](yin-cang-ye-mian-ce-shi-2.md)
