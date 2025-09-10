@@ -5,6 +5,7 @@ edit_uri: edit/master/docs/
 repo_name: FDUGuideBook
 theme:
   name: material
+  custom_dir: overrides
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -38,6 +39,8 @@ theme:
     
 plugins:
   - tags
+  - meta: 
+      meta_file: .meta.yml
   - search:
       lang:
         - en
