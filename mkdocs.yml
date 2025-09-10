@@ -1,0 +1,74 @@
+site_name: FDUGuideBook
+site_url: https://fduguidebook.com
+repo_url: https://github.com/FDUGuideBook/FDUGuideBook
+edit_uri: edit/main/docs/
+repo_name: FDUGuideBook
+theme:
+  name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  icon:
+    logo: material/map
+  favicon: images/blueberries.png
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.prune
+    - navigation.indexes
+    - navigation.footer
+    - toc.follow
+    - content.action.edit
+    - content.action.view
+    
+plugins:
+  - tags
+  - search:
+      lang:
+        - en
+        - zh
+  - git-revision-date-localized:
+      enable_creation_date: true
+      enabled: !ENV [CI, false]
+      type: date
+  - git-committers:
+      repository: FDUGuideBook/FDUGuideBook
+      branch: main
+      enabled: !ENV [CI, false]
+
+markdown_extensions:
+  
+  # Python Markdown
+  - admonition
+  - attr_list
+  - footnotes
+  - tables
+  - md_in_html
+  # Python Markdown Extensions
+  - pymdownx.blocks.caption
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  status:
+    <identifier>: <description>
