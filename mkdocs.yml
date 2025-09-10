@@ -1,7 +1,7 @@
 site_name: FDUGuideBook
 site_url: https://fduguidebook.com
 repo_url: https://github.com/FDUGuideBook/FDUGuideBook
-edit_uri: edit/main/docs/
+edit_uri: edit/master/docs/
 repo_name: FDUGuideBook
 theme:
   name: material
@@ -48,7 +48,7 @@ plugins:
       type: date
   - git-committers:
       repository: FDUGuideBook/FDUGuideBook
-      branch: main
+      branch: master
       enabled: !ENV [CI, false]
 
 markdown_extensions:
