@@ -3,6 +3,18 @@ site_url: https://docs.fduguidebook.com
 repo_url: https://github.com/FDUGuideBook/FDUGuideBook
 edit_uri: edit/master/docs/
 repo_name: FDUGuideBook
+
+nav:
+  - 首页: index.md
+  - 工学:
+    - 工学/index.md
+    - 工学/电子DIY基础.md
+    - 工学/嵌入式软件.md
+    - 工学/机器人学.md
+    - 工学/RoboMaster.md
+    - 泔水桶:
+      - 工学/泔水桶/3D打印.md
+
 theme:
   name: material
   custom_dir: overrides
@@ -33,6 +45,7 @@ theme:
     - navigation.prune
     - navigation.indexes
     - navigation.footer
+    - navigation.tabs
     - toc.follow
     - content.action.edit
     - content.action.view
@@ -63,6 +76,9 @@ markdown_extensions:
   - tables
   - md_in_html
   - def_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   # Python Markdown Extensions
   - pymdownx.blocks.caption
   - pymdownx.caret
