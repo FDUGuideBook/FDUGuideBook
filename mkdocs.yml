@@ -5,15 +5,53 @@ edit_uri: edit/master/docs/
 repo_name: FDUGuideBook
 
 nav:
-  - 首页: index.md
-  - 工学:
-    - 工学/index.md
-    - 工学/电子DIY基础.md
-    - 工学/嵌入式软件.md
-    - 工学/机器人学.md
-    - 工学/RoboMaster.md
+    - 欢迎来到复旦冒险指南: 欢迎来到复旦冒险指南.md
+    - 计算机类:
+        - 区块链方向:
+            - 部分方向与发展路径: 计算机类\区块链方向\部分方向与发展路径.md
+            - 区块链入门须知: 计算机类\区块链方向\区块链入门须知.md
+            - 快速上手小清单: 计算机类\区块链方向\快速上手小清单.md
+        - AI应用开发:
+            - 学习路径: 计算机类\AI应用开发\学习路径.md
+        - 深度学习&大模型方向入门:
+            - 入门基础: 计算机类\深度学习&大模型方向入门\入门基础.md
+    - 电子类:
+        - 如何准备电赛？: 电子类\如何准备电赛？.md
+        - 如何找到开源项目？: 电子类\如何找到开源项目？.md
+        - 电子DIY基础: 电子类\电子DIY基础.md
+        - 嵌入式开发: 电子类\嵌入式开发.md
+        - 如何做一个平衡小车？: 电子类\如何做一个平衡小车？.md
+    - 微电子:
+        - 数字设计入门: 微电子\数字设计入门.md
+        - FPGA开发？: 微电子\FPGA开发？.md
+        - EDA: 微电子\EDA.md
+    - 人工智能:
+        - 具身智能课程和项目: 人工智能\具身智能课程和项目.md
+        - FDU CS自学指南: 人工智能\FDU CS自学指南.md
+        - 关于入门基础的补充: 人工智能\关于入门基础的补充.md
+        - 科研: 人工智能\科研.md
     - 泔水桶:
-      - 工学/泔水桶/3D打印.md
+        - V2ray: 泔水桶\V2ray.md
+        - STM32: 泔水桶\STM32.md
+        - Chisel: 泔水桶\Chisel.md
+        - Vivado软件: 泔水桶\Vivado软件.md
+        - Stack Overflow: 泔水桶\Stack Overflow.md
+        - Z-Library: 泔水桶\Z-Library.md
+        - Markdown: 泔水桶\Markdown.md
+        - 菜鸟教程: 泔水桶\菜鸟教程.md
+        - Linux: 泔水桶\Linux.md
+        - 数字逻辑基础: 泔水桶\数字逻辑基础.md
+        - Obsidian: 泔水桶\Obsidian.md
+        - Latex: 泔水桶\Latex.md
+        - Verilog HDL: 泔水桶\Verilog HDL.md
+        - FPGA: 泔水桶\FPGA.md
+        - SolidWorks: 泔水桶\SolidWorks.md
+        - RoboMaster: 泔水桶\RoboMaster.md
+        - C语言: 泔水桶\C语言.md
+        - Docker: 泔水桶\Docker.md
+        - Windows扫盲:
+            - 用户、用户名与多用户: 泔水桶\Windows扫盲\用户、用户名与多用户.md
+        - 模拟电子学基础: 泔水桶\模拟电子学基础.md
 
 theme:
   name: material
@@ -76,9 +114,6 @@ markdown_extensions:
   - tables
   - md_in_html
   - def_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   # Python Markdown Extensions
   - pymdownx.blocks.caption
   - pymdownx.caret
@@ -88,6 +123,11 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 extra:
   status:
