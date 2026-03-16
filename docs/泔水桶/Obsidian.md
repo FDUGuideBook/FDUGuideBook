@@ -14,7 +14,7 @@
 
 基础使用只需要学习Markdown语法，然后配几个好用的插件。
 
-- [Markdown](../泔水桶/Markdown.md)
+- [Markdown](..\Markdown.md)
 
 进阶使用比较复杂，愿意的话可以自己捣鼓捣鼓，Obsidian的扩展性极高。
 
