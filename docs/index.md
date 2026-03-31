@@ -1,50 +1,32 @@
 # 欢迎来到复旦冒险指南
 
-
-
 ## **写在前面**
 
+这里不是一份“标准答案合集”，而是一份面向理工科同学的探索地图。
 
+在理工科的学习过程中，你或许会有这样的感受：课程很多、方向很广、资料很散，但真正适合自己的路径却不清晰。本指南的目标，就是帮你在纷繁复杂的信息中，找到一条属于自己的成长路线。
 
-## **约定**
+你可以在这里找到：
 
-### **对节点的标注**
+📚 课程与知识梳理：从基础课到进阶方向，构建清晰的知识体系
+🧭 方向入门指南：如嵌入式、AI、计算机系统等领域的入门路径
+🛠️ 工具与资源推荐：高效学习离不开合适的工具与资料
+🚀 实践与项目经验：从“会学”走向“会做”
+💡 经验与思考：来自前人的踩坑记录与方法总结
 
-重要程度（必选项）
+但更重要的是——
+这不是一条规定好的路，而是一张可以不断扩展的地图。
 
-必要的：:material-hexagon-slice-6:
+你可以把它当作：
 
-建议的：:material-hexagon-slice-3:
+初入某个领域时的“导航”
+遇到瓶颈时的“参考”
+规划未来方向时的“灵感来源”
 
-可选的：:material-hexagon-outline:
-
-实践项目：:material-tools:
-
-学校课程：:material-human-male-board:
-
-### **对信息渠道的标注**
-
-推荐 :material-thumb-up-outline:
-
-形式
-
-文章/blog：:material-text:
-
-书/文档：:material-book-open-page-variant-outline:
-
-视频：:material-motion-play-outline:
-
-其它：:material-link-variant:
-
-社区：:material-account-multiple-outline:
-
-学校组织：:material-school-outline:
+也欢迎你参与完善这份指南，让它不仅是“被阅读的资源”，更是一个不断生长的知识社区。
 
 ## **联系我们**
 
 邮箱：fduguidebook@outlook.com
 
 ## **参与贡献**
-
-
-
