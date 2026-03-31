@@ -28,40 +28,40 @@ nav:
         - 电子DIY基础: 电子类/电子DIY基础.md
     - 微电子:
         - 微电子: 微电子/index.md
-        - 数字设计入门: 数字设计入门.md
-        - EDA: EDA.md
-        - FPGA开发？: FPGA开发？.md
+        - 数字设计入门: 微电子/数字设计入门.md
+        - EDA: 微电子/EDA.md
+        - FPGA开发？: 微电子/FPGA开发？.md
     - 人工智能:
         - 人工智能: 人工智能/index.md
-        - 具身智能课程和项目: 具身智能课程和项目.md
-        - FDU CS自学指南: FDU CS自学指南.md
-        - 科研: 科研.md
-        - 项目: 项目.md
-        - 关于入门基础的补充: 关于入门基础的补充.md
+        - 具身智能课程和项目: 人工智能/自身智能课程和项目.md
+        - FDU CS自学指南: 人工智能/FDU CS自学指南.md
+        - 科研: 人工智能/科研.md
+        - 项目: 人工智能/项目.md
+        - 关于入门基础的补充: 人工智能/关于入门基础的补充.md
     - 泔水桶:
         - 泔水桶: 泔水桶/index.md
-        - 菜鸟教程: 菜鸟教程.md
+        - 菜鸟教程: 泔水桶/菜鸟教程.md
         - Windows扫盲:
-            - 用户、用户名与多用户: Windows扫盲\用户、用户名与多用户.md
-        - Chisel: Chisel.md
-        - SolidWorks: SolidWorks.md
-        - Docker: Docker.md
-        - Obsidian: Obsidian.md
-        - RoboMaster: RoboMaster.md
-        - STM32: STM32.md
-        - V2ray: V2ray.md
-        - Markdown: Markdown.md
-        - Stack Overflow: Stack Overflow.md
-        - FPGA: FPGA.md
-        - Verilog HDL: Verilog HDL.md
-        - Vivado软件: Vivado软件.md
-        - 数字逻辑基础: 数字逻辑基础.md
-        - 模拟电子学基础: 模拟电子学基础.md
-        - Linux: Linux.md
-        - Latex: Latex.md
-        - C语言: C语言.md
-        - Z-Library: Z-Library.md
-    - 泔水桶: 泔水桶.md
+            - 概览: 泔水桶/Windows扫盲/index.md
+            - 用户、用户名与多用户: 泔水桶/Windows扫盲/用户、用户名与多用户.md
+        - Chisel: 泔水桶/Chisel.md
+        - SolidWorks: 泔水桶/SolidWorks.md
+        - Docker: 泔水桶/Docker.md
+        - Obsidian: 泔水桶/Obsidian.md
+        - RoboMaster: 泔水桶/RoboMaster.md
+        - STM32: 泔水桶/STM32.md
+        - V2ray: 泔水桶/V2ray.md
+        - Markdown: 泔水桶/Markdown.md
+        - Stack Overflow: 泔水桶/Stack Overflow.md
+        - FPGA: 泔水桶/FPGA.md
+        - Verilog HDL: 泔水桶/Verilog HDL.md
+        - Vivado软件: 泔水桶/Vivado软件.md
+        - 数字逻辑基础: 泔水桶/数字逻辑基础.md
+        - 模拟电子学基础: 泔水桶/模拟电子学基础.md
+        - Linux: 泔水桶/Linux.md
+        - Latex: 泔水桶/Latex.md
+        - C语言: 泔水桶/C语言.md
+        - Z-Library: 泔水桶/Z-Library.md
 
 theme:
   name: material
